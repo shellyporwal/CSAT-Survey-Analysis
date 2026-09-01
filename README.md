@@ -66,14 +66,18 @@ Used t-tests to evaluate whether observed differences in satisfaction were stati
 
 ## Key Insights
 
-* Identified differences in customer satisfaction across zones.
-* Identified satisfaction parameters associated with overall customer satisfaction.
-* Evaluated customer sentiment using NPS.
-* Identified areas requiring improvement based on statistical and exploratory analysis.
+* Overall customer satisfaction was **7.91/10**, with **81%** of customers scoring 8 or 9.
+* Overall NPS was **+39.5**, with South performing best at **+61.5**.
+* **Overall Loan Experience** had the strongest relationship with satisfaction (r = 0.70).
+* **Welcome Letter delivery** was the lowest-rated parameter (7.76) and had the highest variability.
+* **North zone** had the lowest satisfaction (7.60) and highest detractor rate (19.1%).
 
-## Business Recommendations
+## Key Recommendations
 
-The findings can be used to prioritize improvements in the customer experience by focusing on satisfaction parameters with stronger relationships to overall satisfaction and addressing weaker-performing zones or service areas.
-
+* Improve the end-to-end loan experience by identifying process bottlenecks.
+* Improve and monitor Welcome Letter delivery timelines.
+* Investigate the reasons behind lower satisfaction in the North zone.
+* Study South zone practices to identify approaches that could be applied elsewhere.
+* Conduct further research to understand passive customers and improve their experience.
 
 
